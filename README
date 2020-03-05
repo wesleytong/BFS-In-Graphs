@@ -1,0 +1,27 @@
+README
+Wesley Tong
+wtong5
+PA4 - CSE 101
+
+Included:
+
+List.c -- List ADT written by myself, implemented with a doubly linked list. Loosely based on Queue.c, provided 
+by Professor.
+
+List.h -- Header file for List.c, with functions provided by professor. 
+
+Graph.c-- Graph ADT written by myself, implemented with functions from List ADT as well. 
+
+Graph.h -- Header file for Graph.c, with functions provided by professor. Based from pseudocode of CLRS.
+
+GraphTest.c -- Test case file written by myself, for the purpose of testing Graph ADT. 
+
+ListTest.c -- Test case file written by myself, for the purpose of testing List ADT. Tested additional 
+functions for the set() as well. 
+
+FindPath.c -- Written by myself, asks for an input and output file and goes through an input file before 
+creating a graph and then printing out the adjacency list and paths. 
+
+README -- Description of files
+
+Makefile -- Provided by Professor. Compiles work. 
